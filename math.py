@@ -6,8 +6,10 @@ def add(x,y):
 def substract(x,y):
     pass
 
+#Multiply implementation
 def multiply(x,y):
     pass
-#hello
+
+#Divide implementation
 def divide(x,y):
     pass
